@@ -1,5 +1,5 @@
 Programar limpo significa produzir um código que é: legível, modularizado, testado e livre de vulnerabilidades conhecidas.
-
+Software que Funciona é: um software que se comporta da maneira eu espero
 ### Princípios
 
 - Programar limpo somente quando realmente precisa
