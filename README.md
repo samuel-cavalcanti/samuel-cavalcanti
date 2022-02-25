@@ -1,5 +1,3 @@
-# Samuel Cavalcanti
-
 Programar limpo significa produzir um código que é: legível, modularizado, testado e livre de vulnerabilidades conhecidas.
 
 ### Princípios
